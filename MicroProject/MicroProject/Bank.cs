@@ -4,6 +4,7 @@ using System.Text;
 
 namespace MicroProject
 {
+    //This is a base class
     class Bank
     {
         public string Owner { get; set; }

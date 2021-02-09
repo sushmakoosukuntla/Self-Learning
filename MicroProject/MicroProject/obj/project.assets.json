@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sushm\\source\\repos\\MicroProject\\MicroProject\\MicroProject.csproj",
+      "projectUniqueName": "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\MicroProject\\MicroProject\\MicroProject.csproj",
       "projectName": "MicroProject",
-      "projectPath": "C:\\Users\\sushm\\source\\repos\\MicroProject\\MicroProject\\MicroProject.csproj",
+      "projectPath": "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\MicroProject\\MicroProject\\MicroProject.csproj",
       "packagesPath": "C:\\Users\\sushm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sushm\\source\\repos\\MicroProject\\MicroProject\\obj\\",
+      "outputPath": "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\MicroProject\\MicroProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sushm\\AppData\\Roaming\\NuGet\\NuGet.Config",
