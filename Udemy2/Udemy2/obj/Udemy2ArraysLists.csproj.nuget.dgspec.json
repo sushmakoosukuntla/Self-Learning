@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sushm\\source\\repos\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj": {}
+    "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sushm\\source\\repos\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj": {
+    "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sushm\\source\\repos\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj",
+        "projectUniqueName": "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj",
         "projectName": "Udemy2ArraysLists",
-        "projectPath": "C:\\Users\\sushm\\source\\repos\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj",
+        "projectPath": "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\Udemy2\\Udemy2\\Udemy2ArraysLists.csproj",
         "packagesPath": "C:\\Users\\sushm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sushm\\source\\repos\\Udemy2\\Udemy2\\obj\\",
+        "outputPath": "C:\\Users\\sushm\\OneDrive\\Documents\\GitHub\\Self-Learning\\Udemy2\\Udemy2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
