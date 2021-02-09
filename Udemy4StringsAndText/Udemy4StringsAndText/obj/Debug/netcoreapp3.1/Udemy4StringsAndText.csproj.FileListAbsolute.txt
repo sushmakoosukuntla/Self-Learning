@@ -1,0 +1,13 @@
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\bin\Debug\netcoreapp3.1\Udemy4StringsAndText.exe
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\bin\Debug\netcoreapp3.1\Udemy4StringsAndText.deps.json
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\bin\Debug\netcoreapp3.1\Udemy4StringsAndText.runtimeconfig.json
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\bin\Debug\netcoreapp3.1\Udemy4StringsAndText.runtimeconfig.dev.json
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\bin\Debug\netcoreapp3.1\Udemy4StringsAndText.dll
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\bin\Debug\netcoreapp3.1\Udemy4StringsAndText.pdb
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.csprojAssemblyReference.cache
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.AssemblyInfoInputs.cache
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.AssemblyInfo.cs
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.dll
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.pdb
+C:\Users\sushm\source\repos\Udemy4StringsAndText\Udemy4StringsAndText\obj\Debug\netcoreapp3.1\Udemy4StringsAndText.genruntimeconfig.cache

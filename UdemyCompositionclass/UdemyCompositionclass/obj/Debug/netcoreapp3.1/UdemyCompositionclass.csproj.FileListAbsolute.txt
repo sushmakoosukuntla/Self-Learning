@@ -1,0 +1,12 @@
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\bin\Debug\netcoreapp3.1\UdemyCompositionclass.exe
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\bin\Debug\netcoreapp3.1\UdemyCompositionclass.deps.json
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\bin\Debug\netcoreapp3.1\UdemyCompositionclass.runtimeconfig.json
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\bin\Debug\netcoreapp3.1\UdemyCompositionclass.runtimeconfig.dev.json
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\bin\Debug\netcoreapp3.1\UdemyCompositionclass.dll
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\bin\Debug\netcoreapp3.1\UdemyCompositionclass.pdb
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\obj\Debug\netcoreapp3.1\UdemyCompositionclass.AssemblyInfoInputs.cache
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\obj\Debug\netcoreapp3.1\UdemyCompositionclass.AssemblyInfo.cs
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\obj\Debug\netcoreapp3.1\UdemyCompositionclass.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\obj\Debug\netcoreapp3.1\UdemyCompositionclass.dll
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\obj\Debug\netcoreapp3.1\UdemyCompositionclass.pdb
+C:\Users\sushm\source\repos\UdemyCompositionclass\UdemyCompositionclass\obj\Debug\netcoreapp3.1\UdemyCompositionclass.genruntimeconfig.cache
