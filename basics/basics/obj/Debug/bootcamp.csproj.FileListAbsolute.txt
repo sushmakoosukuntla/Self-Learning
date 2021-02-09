@@ -1,0 +1,4 @@
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\bootcamp.csprojAssemblyReference.cache
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\basics.exe
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\basics.pdb

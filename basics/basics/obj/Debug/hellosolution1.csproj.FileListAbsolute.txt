@@ -1,0 +1,7 @@
+C:\Users\sushm\source\repos\basics\basics\bin\Debug\basics.exe.config
+C:\Users\sushm\source\repos\basics\basics\bin\Debug\basics.exe
+C:\Users\sushm\source\repos\basics\basics\bin\Debug\basics.pdb
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\hellosolution1.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\basics.exe
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\basics.pdb
+C:\Users\sushm\source\repos\basics\basics\obj\Debug\hellosolution1.csprojAssemblyReference.cache
