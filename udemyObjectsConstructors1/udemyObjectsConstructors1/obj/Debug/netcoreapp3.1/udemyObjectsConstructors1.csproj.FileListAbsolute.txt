@@ -1,0 +1,13 @@
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructors1.exe
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructors1.deps.json
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructors1.runtimeconfig.json
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructors1.runtimeconfig.dev.json
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructors1.dll
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructors1.pdb
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.csprojAssemblyReference.cache
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.AssemblyInfoInputs.cache
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.AssemblyInfo.cs
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.dll
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.pdb
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructors1.genruntimeconfig.cache

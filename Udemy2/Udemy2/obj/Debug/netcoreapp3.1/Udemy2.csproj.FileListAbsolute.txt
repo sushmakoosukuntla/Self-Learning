@@ -1,0 +1,13 @@
+C:\Users\sushm\source\repos\Udemy2\Udemy2\bin\Debug\netcoreapp3.1\Udemy2.exe
+C:\Users\sushm\source\repos\Udemy2\Udemy2\bin\Debug\netcoreapp3.1\Udemy2.deps.json
+C:\Users\sushm\source\repos\Udemy2\Udemy2\bin\Debug\netcoreapp3.1\Udemy2.runtimeconfig.json
+C:\Users\sushm\source\repos\Udemy2\Udemy2\bin\Debug\netcoreapp3.1\Udemy2.runtimeconfig.dev.json
+C:\Users\sushm\source\repos\Udemy2\Udemy2\bin\Debug\netcoreapp3.1\Udemy2.dll
+C:\Users\sushm\source\repos\Udemy2\Udemy2\bin\Debug\netcoreapp3.1\Udemy2.pdb
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.csprojAssemblyReference.cache
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.AssemblyInfoInputs.cache
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.AssemblyInfo.cs
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.dll
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.pdb
+C:\Users\sushm\source\repos\Udemy2\Udemy2\obj\Debug\netcoreapp3.1\Udemy2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.exe
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.deps.json
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.runtimeconfig.json
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.runtimeconfig.dev.json
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.dll
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\bin\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.pdb
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.csprojAssemblyReference.cache
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.AssemblyInfoInputs.cache
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.AssemblyInfo.cs
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.dll
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.pdb
+C:\Users\sushm\source\repos\udemyObjectsConstructors1\udemyObjectsConstructors1\obj\Debug\netcoreapp3.1\udemyObjectsConstructorsFields1.genruntimeconfig.cache

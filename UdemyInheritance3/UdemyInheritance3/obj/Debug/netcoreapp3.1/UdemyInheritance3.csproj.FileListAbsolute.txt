@@ -1,0 +1,13 @@
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\bin\Debug\netcoreapp3.1\UdemyInheritance3.exe
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\bin\Debug\netcoreapp3.1\UdemyInheritance3.deps.json
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\bin\Debug\netcoreapp3.1\UdemyInheritance3.runtimeconfig.json
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\bin\Debug\netcoreapp3.1\UdemyInheritance3.runtimeconfig.dev.json
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\bin\Debug\netcoreapp3.1\UdemyInheritance3.dll
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\bin\Debug\netcoreapp3.1\UdemyInheritance3.pdb
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.csprojAssemblyReference.cache
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.AssemblyInfoInputs.cache
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.AssemblyInfo.cs
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.csproj.CoreCompileInputs.cache
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.dll
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.pdb
+C:\Users\sushm\source\repos\UdemyInheritance3\UdemyInheritance3\obj\Debug\netcoreapp3.1\UdemyInheritance3.genruntimeconfig.cache

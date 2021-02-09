@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StopWatchStackOverFlowProject/1.0.0": {
+        "runtime": {
+          "StopWatchStackOverFlowProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StopWatchStackOverFlowProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
